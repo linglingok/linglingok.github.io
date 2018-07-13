@@ -1,0 +1,65 @@
+body {
+	margin: 0px;
+	height: 1080px;
+	width: 1920px;
+}
+
+.jorrit1 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.jorrit2 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	top: 720px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.linkerkant {
+	position: absolute;
+	width: 250px;
+}
+
+.jorrit3 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	padding-top: 10px;
+}
+
+.jorrit4 {
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	top: 720px;
+}
+
+.rechterkant {
+	position: absolute;
+	width: 250px;
+	left: 1660px;
+}
+
+.youtube {
+position: absolute;
+width: 536px;
+height: 732px;
+}
+
+.midden {
+position: absolute;
+width: 536px;
+left: 692px;
+top: 172.5px;
+}
+
+.b1 {
+	position: absolute;
+	left: 350px;
+}

@@ -1,0 +1,22 @@
+body {
+	margin: 0px;
+	height: 1080px;
+	width: 1920px;
+}
+
+.middenbox {
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	left: 710px;
+	top: 290px;
+	border: 5px solid black;
+}
+
+.jorrit {
+	width: 120px;
+	height: 120px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border: 3px solid black;
+}
