@@ -1,14 +1,16 @@
 body {
 	margin: 0px;
+	height: 1334px;
+	width: 750px;
 }
 
 .middenbox {
 	position: absolute;
 	width: 500px;
 	height: 500px;
-	left: 710px;
-	top: 290px;
-	border: 5px solid black;
+	left: 500px;
+	top: 417px;
+	border: 5px solid lightgrey;
 }
 
 .jorrit {
